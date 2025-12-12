@@ -1,10 +1,10 @@
 import pandas as pd
 
 # Excel file ka path.
-excel_file = r"E:\SUNB\Smart Urdu Novel Bank\add_new_novel.xlsx"  # Apni Excel file ka path daalein
+excel_file = r"E:\git-workstation\SUNB\add_new_novel.xlsx" # Apni Excel file ka path daalein
 
 # JSON file ka output path
-json_file = r"E:\SUNB\Smart Urdu Novel Bank\add_new_novel.json"  # JSON file ka naam aur path
+json_file = r"E:\git-workstation\SUNB\add_new_novel.json"  # JSON file ka naam aur path
 
 try:
     # Excel file ko read karein
